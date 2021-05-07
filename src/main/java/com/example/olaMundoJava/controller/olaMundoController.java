@@ -8,6 +8,6 @@ public class olaMundoController {
 
 	@RequestMapping("/hello")
 	public String olaMundo() {
-		return "Hello Worlda";
+		return "Hello World";
 	}
 }
